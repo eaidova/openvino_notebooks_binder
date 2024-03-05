@@ -1,3 +1,11 @@
+nbgitpuller
+# jupyter
+jupyterlab
+ipywidgets
+ipykernel>=5.*
+ipython>=7.16.3
+
+
 # openvino and its dependencies
 openvino-dev>=2023.3.0
 openvino-telemetry>=2023.2.1
@@ -17,13 +25,6 @@ torchaudio==2.1.0
 transformers>=4.21.1
 
 
-# jupyter
-jupyterlab
-ipywidgets
-ipykernel>=5.*
-ipython>=7.16.3
-
-
 # others
 numpy>=1.21.0
 opencv-python
@@ -36,5 +37,3 @@ scipy
 # compatibility issues or vulnerabilities
 scikit-image>=0.19.2
 setuptools>=56.0.0
-
-nbgitpuller
